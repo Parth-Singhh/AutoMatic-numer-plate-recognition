@@ -53,4 +53,5 @@ python anpr.py
 
 ## Author
 
-Devangi
+Parth Singh
+
