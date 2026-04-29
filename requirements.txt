@@ -2,3 +2,5 @@ opencv-python
 pytesseract
 imutils
 numpy
+streamlit
+pillow
