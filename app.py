@@ -378,7 +378,7 @@ st.markdown(
     """
     <div class='section-header'>Input Feed</div>
     <div class='upload-zone'>
-        <span class='upload-icon'>📡</span>
+        <span class='upload-icon'>📡</span>         
         <div class='upload-label'>Drop vehicle image or click to browse</div>
         <div class='upload-sub'>JPG · JPEG · PNG &nbsp;|&nbsp; MAX 200 MB</div>
     </div>
